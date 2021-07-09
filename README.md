@@ -1,2 +1,1 @@
-# rustos
-Write an operating system from scratch use rust language.
+## Write an operating system from scratch use rust language.
